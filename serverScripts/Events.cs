@@ -197,25 +197,25 @@ namespace ServerSide
                 switch (webId)
                 {
                     case 0: // server logs
-                        token = "https://discord.com/api/webhooks/1057612161196757023/402GgzBH4P_hb2XH83tEPTgCLteu3sVRbPJ1buiw4it7w7Vzo2jRw9wypj9RxSgSyab_";
+                        token = "";
                         break;
                     case 1: // player logs
-                        token = "https://discord.com/api/webhooks/1044933815581282334/aNPiTZ8WEntRd3iT2lPlUn86jN_50KzBLxQkSlmj-y4m-Y9Ae7vrlKPaKEFees2WxG8S";
+                        token = "";
                         break;
                     case 2: // admin logs
-                        token = "https://discord.com/api/webhooks/1057621147891540018/EiZCmjhUEbFXvL5YuKCXVDNto-TkZEeu08juHnV8eRpcViLB0uCp7IcxE5hdT370qbZC";
+                        token = "";
                         break;
                     case 3: // kill logs
-                        token = "https://discord.com/api/webhooks/1057636318290649088/FubLxNl5fDfOrw3gRAPiMZEWnfeNp1eTOdT90ML3AYmcu3eppYkqtMCatMbcus4vhjcQ";
+                        token = "";
                         break;
                     case 4: // ban logs
-                        token = "https://discord.com/api/webhooks/1057678537122914385/65jG6d3Horw6hOfPOUIn_CceUXuTage3hsOg_U6KOBMz9ibeKDyf-masvn1V0eDagkp5";
+                        token = "";
                         break;
                     case 5: // money logs
-                        token = "https://discord.com/api/webhooks/1057678476150317086/UC40Bw4fHHEdPretEQXt1WPpn0FtR2lXuEiEPlfInxmIzoHJiTUdbtcxAGJ5CjyBAYnA";
+                        token = "";
                         break;
                     case 6: // events in discord
-                        token = "https://discord.com/api/webhooks/1062242763145490453/13buPPXtjQNq8Z076yZ6rFjz0wfrThW4Cr6mpXJ4phJR9EYu23uAvzOJekXcvN8ZaUbu";
+                        token = "";
                         break;
                 }
 
